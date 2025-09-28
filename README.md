@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 Table of Contents
+# 📚 Table of Contents
 1. [Why This Journey](#-why-this-journey)  
 2. [Daily Progress Log](#-daily-progress-log)  
 3. [Skills & Tech Stack](#-skills--tech-stack)  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 Why This Journey?
+# 🎯 Why This Journey?
 - Build **strong daily coding habits**  
 - Learn in public to stay **accountable and motivated**  
 - Grow as a **Full Stack Developer & Cybersecurity Enthusiast**  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🗓️ Daily Progress Log
+# 🗓️ Daily Progress Log
 
 | Day | Topic / Focus | Twitter Post | Screenshot / GIF |
 |-----|---------------|--------------|-----------------|
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Skills & Tech Stack
+# 🛠️ Skills & Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -53,7 +53,7 @@
 
 ---
 
-## 🖼️ Projects & Highlights
+# 🖼️ Projects & Highlights
 
 Here you can showcase your **mini-projects or exercises** with screenshots or GIFs:  
 
@@ -71,7 +71,7 @@ Here you can showcase your **mini-projects or exercises** with screenshots or GI
 
 ---
 
-## 📊 Progress Tracker
+# 📊 Progress Tracker
 
 <p align="center">
   <img src="https://img.shields.io/badge/Day_1-✅-green?style=for-the-badge">
@@ -84,21 +84,21 @@ Here you can showcase your **mini-projects or exercises** with screenshots or GI
 
 ---
 
-## 🌱 Reflection & Lessons
+# 🌱 Reflection & Lessons
 - Document **challenges, wins, and insights** daily.  
 - Example: “Today I struggled with React hooks but finally built a dynamic form.”  
 - Share **lessons learned** weekly or at milestones.  
 
 ---
 
-## 📝 How to Use This Repo
+# 📝 How to Use This Repo
 - Follow along to **track my journey** or replicate your own 100 Days of Dev Challenge.  
 - Submit **feedback, suggestions, or contributions** via GitHub issues.  
 - Use this as a **template for your own learning log**: copy the structure, badges, and tables.  
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <p align="center">
   <a href="https://x.com/iam_vishant">
