@@ -1,43 +1,84 @@
-# 100 Days of Dev Journey 🚀
+# 🚀 100 Days of Dev Journey
 
-This repository documents my learning journey as a software developer — 100 days of consistent coding, problem-solving, and building projects.  
-Each day I share my progress publicly on [X (Twitter)](https://x.com/), and log it here for easy reference and accountability.  
-
----
-
-## 📌 Purpose
-- Build strong coding habits through daily practice.  
-- Share learnings in public to inspire and stay accountable.  
-- Track growth across web development, problem-solving, and real-world projects.  
+Welcome to my **100 Days of Dev Journey** — a disciplined commitment to code, learn, and share daily for 100 days.  
+This repo documents my **progress, learning, and reflections**, complemented by daily posts on [X (Twitter)](https://x.com/iam_vishant).
 
 ---
 
-## 🗓️ Daily Logs
+## 🎯 Why This Journey?
+- Develop **strong coding habits** through consistent practice  
+- Learn in public to stay **accountable and motivated**  
+- Grow as a **Full Stack Developer & Cybersecurity Enthusiast**  
+- Share knowledge and progress with the **developer community**  
+
+---
+
+## 🗓️ Daily Progress Log
+
 | Day | Topic / Focus | X (Twitter) Post |
 |-----|---------------|------------------|
-| 1   | Getting started with 100 Days of Dev | [Link](https://x.com/iam_vishant/status/1972357424683368703) |
+| 1   | Getting started with 100 Days of Dev | [View Post](https://x.com/iam_vishant/status/1972357424683368703) |
 | 2   | ... | ... |
 | 3   | ... | ... |
 | …   | … | … |
 
----
-
-## 🛠️ Tech & Skills Covered
-- HTML, CSS, JavaScript, React  
-- Node.js, Python, APIs  
-- Problem-Solving & Data Structures  
-- Version Control (Git/GitHub)  
-- Cybersecurity & Networking basics  
+> 📌 *This table will be updated daily with new learnings and links.*  
 
 ---
 
-## 🌱 Reflection
-This repo is more than a log — it’s a commitment to growth.  
-By the end of 100 days, the goal is to have sharpened my skills, built meaningful projects, and created a strong foundation for my career as a software developer.  
+## 🛠️ Skills & Tech I’m Learning
+
+### Frontend Development
+- HTML, CSS, JavaScript  
+- React, Next.js  
+- Responsive & accessible UI  
+
+### Backend Development
+- Node.js, Express  
+- REST APIs & CRUD operations  
+- Basic database integration  
+
+### Programming & Problem Solving
+- Python & JavaScript  
+- Data Structures & Algorithms  
+- Debugging & optimization  
+
+### Tools & Workflow
+- Git & GitHub  
+- Agile practices & CI/CD basics  
+- VS Code, DevTools, Postman  
+
+### Cybersecurity Fundamentals
+- Networking concepts  
+- OWASP Top 10 & secure coding practices  
+- Vulnerability awareness  
 
 ---
 
-## 🔗 Connect
-- Follow along on [X (Twitter)](https://x.com/iam_vishant)  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/vishant--chaudhary)  
-- Explore more of my projects here on [GitHub](https://github.com/iam-vishant)  
+## 📊 Tracking Progress
+- Daily posts on [X (Twitter)](https://x.com/iam_vishant)  
+- Central log in this repository  
+- Weekly reflections to measure growth  
+- Side projects to apply skills in real scenarios  
+
+---
+
+## 🌱 Goals & Reflections
+By the end of 100 days, I aim to:  
+- Strengthen **full stack development skills**  
+- Build **production-ready projects**  
+- Sharpen **problem-solving & coding mindset**  
+- Step closer to a career as a **skilled software developer & security engineer**  
+
+---
+
+## 🔗 Connect With Me
+Let’s connect, collaborate, and grow together!  
+
+[![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iam_vishant)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishant--chaudhary)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iam-vishant)  
+
+---
+
+✨ *Follow this repo to track my journey and feel free to start your own 100 Days of Dev Challenge!*  
