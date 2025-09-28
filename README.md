@@ -75,9 +75,17 @@ By the end of 100 days, I aim to:
 ## 🔗 Connect With Me
 Let’s connect, collaborate, and grow together!  
 
-[![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iam_vishant)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishant--chaudhary)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iam-vishant)  
+<p align="center">
+  <a href="https://x.com/iam_vishant">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X">
+  </a>
+  <a href="https://www.linkedin.com/in/vishant--chaudhary">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/iam-vishant">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub">
+  </a>
+</p>
 
 ---
 
