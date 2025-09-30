@@ -26,9 +26,6 @@ This repository documents my **progress, learning, and reflections**, complement
 
 ---
 
-## 🗓️ Daily Progress Log
-
-## 🗓️ Daily Progress Log
 
 ## 🗓️ Daily Progress Log
 
