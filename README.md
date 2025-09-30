@@ -30,11 +30,14 @@ This repository documents my **progress, learning, and reflections**, complement
 
 ## 🗓️ Daily Progress Log
 
+## 🗓️ Daily Progress Log
+
 | Day | Topic / Focus | Twitter Post | Screenshot / GIF |
 |-----|---------------|--------------|-----------------|
-| 1   | Getting started with 100 Days of Dev | [View Post](https://x.com/iam_vishant/status/1972357424683368703) | 
-| 2   | Continued learning & coding | [View Post](https://x.com/iam_vishant/status/1972590231124930568) | 
-| 3   | ... | [Link](#) |
+| 1   | Getting started with 100 Days of Dev | [View Post](https://x.com/iam_vishant/status/1972357424683368703) | ![Day1](assets/day1.png) |
+| 2   | Continued learning & coding | [View Post](https://x.com/iam_vishant/status/1972590231124930568) | ![Day2](assets/day2.png) |
+| 3   | Exploring new concepts & projects | [View Post](https://x.com/iam_vishant/status/1973027167488635146) | ![Day3](assets/day3.png) |
+| …   | … | … | … |
 | …   | … | … | … |
 | …   | … | … |
 
