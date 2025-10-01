@@ -34,7 +34,7 @@ This repository documents my **progress, learning, and reflections**, complement
 | 1   | Getting started with 100 Days of Dev | [View Post](https://x.com/iam_vishant/status/1972357424683368703) | ![Day1](assets/day1.png) |
 | 2   | Continued learning & coding | [View Post](https://x.com/iam_vishant/status/1972590231124930568) | ![Day2](assets/day2.png) |
 | 3   | Exploring new concepts & projects | [View Post](https://x.com/iam_vishant/status/1973027167488635146) | ![Day3](assets/day3.png) |
-| …   | … | … | … |
+| 4   | New challenges & coding practice | [View Post](https://x.com/iam_vishant/status/1973306941469610003) | ![Day4](assets/day4.png) |
 | …   | … | … | … |
 | …   | … | … |
 
