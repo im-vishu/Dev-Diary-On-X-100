@@ -35,8 +35,9 @@ This repository documents my **progress, learning, and reflections**, complement
 | 2   | Continued learning & coding | [View Post](https://x.com/iam_vishant/status/1972590231124930568) | ![Day2](assets/day2.png) |
 | 3   | Exploring new concepts & projects | [View Post](https://x.com/iam_vishant/status/1973027167488635146) | ![Day3](assets/day3.png) |
 | 4   | New challenges & coding practice | [View Post](https://x.com/iam_vishant/status/1973306941469610003) | ![Day4](assets/day4.png) |
+| 5   | Expanding skills & consistency | [View Post](https://x.com/iam_vishant/status/1973796109169336584) | ![Day5](assets/day5.png) |
 | …   | … | … | … |
-| …   | … | … |
+
 
 > 📌 *This table will be updated daily with new learnings and links.*  
 
