@@ -31,13 +31,15 @@ This repository documents my **progress, learning, and reflections**, complement
 
 | Day | Topic / Focus | Twitter Post | Screenshot / GIF |
 |-----|---------------|--------------|-----------------|
-| 1   | Getting started with 100 Days of Dev | [View Post](https://x.com/iam_vishant/status/1972357424683368703) | ![Day1](assets/day1.png) |
-| 2   | Continued learning & coding | [View Post](https://x.com/iam_vishant/status/1972590231124930568) | ![Day2](assets/day2.png) |
-| 3   | Exploring new concepts & projects | [View Post](https://x.com/iam_vishant/status/1973027167488635146) | ![Day3](assets/day3.png) |
-| 4   | New challenges & coding practice | [View Post](https://x.com/iam_vishant/status/1973306941469610003) | ![Day4](assets/day4.png) |
-| 5   | Expanding skills & consistency | [View Post](https://x.com/iam_vishant/status/1973796109169336584) | ![Day5](assets/day5.png) |
-| 6   | Diving deeper into development | [View Post](https://x.com/iam_vishant/status/1973966195973054713) | ![Day6](assets/day6.png) |
+| 1   | Getting started with 100 Days of Dev | [View Post](https://x.com/iam_vishant/status/1972357424683368703) | ![Day1] |
+| 2   | Continued learning & coding | [View Post](https://x.com/iam_vishant/status/1972590231124930568) | ![Day2] |
+| 3   | Exploring new concepts & projects | [View Post](https://x.com/iam_vishant/status/1973027167488635146) | ![Day3] |
+| 4   | New challenges & coding practice | [View Post](https://x.com/iam_vishant/status/1973306941469610003) | ![Day4]|
+| 5   | Expanding skills & consistency | [View Post](https://x.com/iam_vishant/status/1973796109169336584) | ![Day5] |
+| 6   | Diving deeper into development | [View Post](https://x.com/iam_vishant/status/1973966195973054713) | ![Day6]|
+| 7   | Weekly progress & new learnings | [View Post](https://x.com/iam_vishant/status/1974361129955831992) | ![Day7] |
 | …   | … | … | … |
+
 
 
 > 📌 *This table will be updated daily with new learnings and links.*  
